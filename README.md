@@ -12,4 +12,5 @@ Qualitative comparison of our SSPFusion and eight state-of-the-art methods on th
 
 Quantitative comparison of our SSPFusion and eight state-of-the-art methods on the MSRS, M3FD, RoadScene and TNO, respectively.
 
-![](https://github.com/QiaoYang-CV/SSPFUSION/blob/main/quantitative.png)
+#![](https://github.com/QiaoYang-CV/SSPFUSION/blob/main/quantitative.png)
+<img src="quantitative.png" width="90%" align=center />
