@@ -14,7 +14,7 @@ Visualization results of infrared image, visible image and unique structure (i.e
 
 Qualitative comparison of our SSPFusion and eight state-of-the-art methods on the MSRS, M3FD, RoadScene and TNO, respectively.
 
-![](https://github.com/QiaoYang-CV/SSPFUSION/blob/main/qualitative.png)
+<img src="qualitative.png" width="60 %" align=center />
 
 Quantitative comparison of our SSPFusion and eight state-of-the-art methods on the MSRS, M3FD, RoadScene and TNO, respectively.
 
