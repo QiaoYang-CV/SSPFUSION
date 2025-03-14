@@ -10,7 +10,7 @@ Codes will be released after the paper is accepted for publication.
 
 Visualization results of infrared image, visible image and unique structure (i.e., cross-modality structure) maps on "00097D" and "00054N" from the MSRS dataset.
 
-<img src="Figure/structure.png" width="600" align=center />
+<img src="Figure/structure.png" width="700" align=center />
 
 #### Comparison Examples
 
