@@ -10,7 +10,7 @@ Codes will be released after the paper is accepted for publication.
 
 Visualization results of infrared image, visible image and unique structure (i.e., cross-modality structure) maps on "00097D" and "00054N" from the MSRS dataset.
 
-<img src="Figures/structure.png" width="600" align=center />
+<img src="Figure/structure.png" width="600" align=center />
 
 #### Comparison Examples
 
@@ -24,4 +24,4 @@ Quantitative comparison1 of our SSPFusion and eight state-of-the-art methods on 
 
 Quantitative comparison2 of our SSPFusion and eight state-of-the-art methods on the MSRS, M3FD, and RoadScene, respectively.
 
-<img src="Figure/quantitative2.png" width="350" align=center />
+<img src="Figure/quantitative2.png" width="700" align=center />
